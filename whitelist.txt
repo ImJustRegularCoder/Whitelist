@@ -1,7 +1,4 @@
 local VyonPremium = {
-    223106335,
-}
-return VyonPremium
-    2231063352
+    223106335
 }
 return VyonPremium
