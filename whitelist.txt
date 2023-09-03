@@ -1,5 +1,1 @@
-local whitelisted = [
-    3287732610,
-    554454545,
-]
-return whitelisted
+
