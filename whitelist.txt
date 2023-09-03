@@ -2,5 +2,6 @@ local VyonPremium = {
     2231063352
 , 223106335
 , 2231063352
-    }
+    , 2231063352
+
 return VyonPremium
