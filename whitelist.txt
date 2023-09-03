@@ -1,4 +1,3 @@
 local VyonPremium = {
-    3287732616,
 }
 return VyonPremium
