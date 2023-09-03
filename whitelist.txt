@@ -1,5 +1,4 @@
 local whitelisted = [
     [3287732610],
-    [3287732616],
 ]
 return whitelisted
