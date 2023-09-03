@@ -1,4 +1,4 @@
-local VyonPremium = {
-    3821489932,
-}
-return VyonPremium
+local whitelisted = [
+    [223106335],
+]
+return whitelisted
