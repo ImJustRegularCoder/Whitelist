@@ -5,5 +5,6 @@ local VyonPremium = {
     2,
     3,
     66,
+    9999,
 }
 return VyonPremium
